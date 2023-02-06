@@ -1,4 +1,8 @@
 ### Hi there 👋
+My name is Fig,
+I'm currently dusting off some old programming skills and retooling for web base application development. 
+I'm most comfortable working in python and I'm currently learning the Flask server framework.
+Also I am dusting off some front end skills with CSS and learning React.
 
 <!--
 **digitalfig/digitalfig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
